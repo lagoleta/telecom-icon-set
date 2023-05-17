@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="1200"
+   viewBox="0 0 1200 1200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="camion-peque-antena.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:zoom="0.32"
+     inkscape:cx="228.125"
+     inkscape:cy="812.5"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid854" />
+    <sodipodi:guide
+       position="707.8125,976.76692"
+       orientation="0,-1"
+       id="guide8521" />
+    <sodipodi:guide
+       position="773.75244,927.5"
+       orientation="1,0"
+       id="guide8523" />
+    <sodipodi:guide
+       position="717.05047,476.76692"
+       orientation="0,-1"
+       id="guide9039" />
+    <sodipodi:guide
+       position="889.40775,876.76691"
+       orientation="0,-1"
+       id="guide9123" />
+    <sodipodi:guide
+       position="773.75244,676.76691"
+       orientation="0,-1"
+       id="guide9149" />
+    <sodipodi:guide
+       position="531.43494,476.76758"
+       orientation="0,-1"
+       id="guide11400" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect8302"
+       style="opacity:1;stroke-width:15;stroke-linecap:square;paint-order:markers stroke fill"
+       d="m 545.23435,216.02051 a 20,20 0 0 0 -20,20 20,20 0 0 0 20,20 20,20 0 0 0 14.68359,-6.47071 c 18.74576,7.90087 61.67547,29.62188 89.5625,73.14649 l -11.24609,6.48828 21.09375,16.79688 -12.5,7.03124 14.0625,7.8125 -5.85938,12.89063 h 11.71875 l 0.78125,29.6875 8.00586,-3.08789 c 6.92697,47.00055 9.47542,112.11226 9.93946,170.43945 0.50409,63.36264 -1.20101,116.49311 -1.8086,133.22461 h -14.2539 v -282.125 c 0,-9.9022 -7.97281,-17.875 -17.875,-17.875 H 187.28708 c -9.9022,0 -17.87309,7.9728 -17.87304,17.875 v 464.25196 c -2e-5,9.90219 7.97084,17.87304 17.87304,17.87304 h 33.15625 a 100,100 0 0 1 100,-100 100,100 0 0 1 100,100 h 231.09571 85.10937 19.69141 29.78906 a 100,100 0 0 1 100,-100 100,100 0 0 1 99.99998,100 h 24.52354 2.0586 c 9.9017,0 17.875,-7.97089 17.875,-17.87304 v -34.25391 c 0,-9.90219 -7.9732,-17.87305 -17.875,-17.87305 h -3.8809 l -2.5977,-99.70117 -76.23434,-30.29883 -92.20902,-189.73047 c -0.15369,-0.32748 -0.30009,-0.65846 -0.47266,-0.97461 l -0.002,-0.002 c -3.0279,-5.54514 -8.90603,-9.29297 -15.69336,-9.29297 H 707.36911 c -5.23537,0 -9.88683,2.26788 -13.15039,5.83203 -1.39817,-40.80305 -4.08388,-80.94776 -9.0625,-113.20703 l 9.71875,-3.74804 -12.5,-26.17188 7.8125,-5.46875 -10.15625,-8.59375 6.25,-16.40625 -11.32812,3.51563 -6.25,-28.125 -10.5293,6.07421 C 629.27397,272.23536 585.04629,249.36606 564.63669,240.6748 a 20,20 0 0 0 0.59766,-4.65429 20,20 0 0 0 -20,-20 z m 224.27734,314.88476 c 5.3084,-0.004 27.51966,0.81418 43.13672,14.14649 17.84807,15.23692 79.70703,151.42969 79.70703,151.42969 l -122.33789,1.33789 -44.99805,-27.93946 -0.29492,-138.44726 43.61524,-0.50977 c 0,0 0.41353,-0.017 1.17187,-0.0176 z M 320.11911,823.97949 a 80,80 0 0 0 -80,80 80,80 0 0 0 80,80 80,80 0 0 0 80,-80 80,80 0 0 0 -80,-80 z m 566.78907,0 a 80,80 0 0 0 -80,80 80,80 0 0 0 80,80 80,80 0 0 0 80.00198,-80 80,80 0 0 0 -80.00198,-80 z" />
+  </g>
+</svg>

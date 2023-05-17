@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="920"
+   height="959.95117"
+   viewBox="0 0 920 959.95117"
+   version="1.1"
+   id="com-headquarters"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="telecom-headquarters.svg"
+   inkscape:export-filename="C:\Users\lagoleta\Desktop\PRYECTOS\dingbat-telecom\telecom-headquarters1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title-com-headquarters">Com-headquarters</title>
+  <defs
+     id="defs1454" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="731.82709"
+     inkscape:cy="210.08474"
+     inkscape:document-units="px"
+     inkscape:current-layer="com-headquarters"
+     showgrid="false"
+     units="px"
+     width="1000px"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid-headquarters"
+       originx="-40"
+       originy="-20" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata-headquarters-com">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Com-headquarters</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:date>15/11/20</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>La Goleta</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public domains</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>David Digan</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>Bahia Blanca - Argentina</dc:source>
+        <dc:language>English</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Com-headquarters</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer-com-headquarters"
+     transform="translate(-40,-52.465495)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 119.15039,0 a 18.635784,18.635784 0 0 0 -18.63672,18.636719 18.635784,18.635784 0 0 0 10.64844,16.810547 l -5.05859,51.564453 -13.203129,-3.300781 2.560547,-23.041016 a 6.50065,6.50065 0 0 0 -6.478516,-7.310547 6.50065,6.50065 0 0 0 -6.44336,5.875 l -10,90.000005 a 6.5006882,6.5006882 0 1 0 12.921876,1.43554 L 87.421875,133.02148 101.25,136.47852 81.283203,339.95117 H 70 c -5.53999,0 -10,4.46001 -10,10 v 580 l -0.101562,10 H 0 v 20 h 920 v -20 h -60 v -10 -580 c 0,-5.53999 -4.46001,-10 -10,-10 H 638 L 606.73242,241.21289 A 110,98.841599 48.189673 0 0 718,229.95312 l -54.54688,-60.98437 27.44141,-59.45508 a 18.635784,18.635784 0 0 0 9.44141,2.5918 18.635784,18.635784 0 0 0 18.63672,-18.634767 18.635784,18.635784 0 0 0 -18.63672,-18.636719 18.635784,18.635784 0 0 0 -18.63672,18.636719 18.635784,18.635784 0 0 0 1.9043,8.171877 L 623.80664,124.64062 571.33398,65.974609 A 110,98.841599 48.189673 0 0 567.91211,210.18164 L 518,339.95117 H 438 L 418.51953,164.63281 a 18.635784,18.635784 0 0 0 13.26563,-17.82812 18.635784,18.635784 0 0 0 -18.63477,-18.63672 18.635784,18.635784 0 0 0 -18.63672,18.63672 18.635784,18.635784 0 0 0 12.97461,17.74609 L 388,339.95117 H 308.57227 L 281.56836,264.3418 A 85,70.000008 0 0 0 356,194.95117 h -76 l -4.58984,-32.13476 a 13.964466,13.964466 0 0 0 8.58007,-12.8711 13.964466,13.964466 0 0 0 -13.96484,-13.96289 13.964466,13.964466 0 0 0 -13.96484,13.96289 13.964466,13.964466 0 0 0 8.53125,12.86524 L 260,194.95117 h -74 a 85,70.000008 0 0 0 72.75,69.20117 l -22.55859,75.79883 h -79.17383 l -19.97461,-203.54492 13.53515,-3.38477 1.96094,17.64844 a 6.5006882,6.5006882 0 1 0 12.92188,-1.43554 l -10,-90.000005 a 6.50065,6.50065 0 0 0 -6.44336,-5.875 6.50065,6.50065 0 0 0 -6.47852,7.310547 l 2.56055,23.041016 -12.91016,3.228515 -5.05273,-51.486328 A 18.635784,18.635784 0 0 0 137.78516,18.636719 18.635784,18.635784 0 0 0 119.15039,0 Z m -27.808593,97.751953 13.378903,3.345707 -2.08984,21.29492 -13.648438,-3.41211 z m 55.318363,0 2.35937,21.228517 -13.35937,3.33984 -2.08985,-21.29687 z M 100,379.95117 h 160 v 82.5 H 100 Z m 260,0 h 160 v 82.5 H 360 Z m 260,0 h 160 v 82.5 H 620 Z m -520,97.5 h 160 v 95 H 100 Z m 260,0 h 160 v 95 H 360 Z m 260,0 h 160 v 95 H 620 Z m -520,110 h 160 v 92.5 H 100 Z m 260,0 h 160 v 92.5 H 360 Z m 260,0 h 160 v 92.5 H 620 Z m -527.732422,152.5 h 60.695312 v 80 H 92.267578 Z m 75.695312,0 h 52.38281 v 80 h -52.38281 z m 67.38281,0 h 52.38477 v 80 H 235.3457 Z m 67.38477,0 h 52.38476 v 80 h -52.38476 z m 67.38476,0 H 422.5 v 80 h -52.38477 z m 67.38477,0 h 52.38281 v 80 H 437.5 Z m 67.38281,0 h 57.38477 v 80 h -57.38477 z m 115.11719,0 h 72.5 v 200 H 620 Z m 87.5,0 h 65 v 191.6543 h -65 z"
+       transform="translate(40,52.465495)"
+       id="path936"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

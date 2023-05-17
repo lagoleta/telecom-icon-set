@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600.86365"
+   height="782.13916"
+   viewBox="0 0 600.86364 782.13916"
+   version="1.1"
+   id="svg870"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="parabola.svg"
+   inkscape:export-filename="C:\Users\lagoleta\Desktop\PRYECTOS\dingbat-telecom\handies2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   style="enable-background:new">
+  <defs
+     id="parabola-antenna-1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13929">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend13931" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="246.01301"
+     inkscape:cy="379.05782"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg870"
+     showgrid="true"
+     units="px"
+     width="1000px"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid-parabolic-antenna"
+       originx="-194.88243"
+       originy="-84.253893" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata-parabolic-antenna">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:date />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>La Goleta</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Creative Commons</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>David Digan</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>Bahia Blanca - Argentina</dc:source>
+        <dc:language>Español</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-194.88243,-166.02363)"
+     style="filter:url(#filter13929)">
+    <g
+       style="stroke-width:24.33592987;stroke-miterlimit:4;stroke-dasharray:none"
+       id="parabolic-antenna"
+       transform="matrix(0.69126029,-0.44448162,0.44448162,0.69126029,-71.466604,397.77542)">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 678.66992,275.9707 a 10.001,10.001 0 0 0 -5.40039,1.58789 L 483.15625,399.80273 433.85352,348.83984 c 7.60676,-14.51546 7.46337,-32.6321 -1.98243,-47.32226 -13.96955,-21.72553 -43.2022,-28.07893 -64.92773,-14.10938 -21.72553,13.96956 -28.07698,43.20416 -14.10742,64.92969 9.44577,14.69012 25.8692,22.33672 42.23242,21.43945 l 25.9082,66.00586 -190.11328,122.24414 a 10.001,10.001 0 0 0 -3.00195,13.82032 c 42.56124,66.19147 123.99452,99.6492 213.5039,89.86718 l 65.77735,18.79297 -1.54492,3.0918 -46.54493,93.0918 h -94.2207 V 830 h -65.74805 v 10 75.74609 H 795.74609 V 830 H 730 v -49.30859 h -94.2207 l -49.31055,-98.6211 h -0.28906 v -25.21484 l 58.64453,-96.76367 c 11.78559,-13.09895 22.4592,-27.15517 31.80469,-42.03711 49.47628,-78.7871 54.11589,-169.59976 10.46093,-237.49219 a 10.001,10.001 0 0 0 -8.41992,-4.5918 z m -285.70117,23.92383 c 8.64154,0.17941 17.00278,4.54321 22.08008,12.43945 8.12368,12.634 4.53243,29.16538 -8.10156,37.28907 -12.634,8.12368 -29.16539,4.53047 -37.28907,-8.10352 -8.12368,-12.634 -4.53243,-29.16342 8.10157,-37.28711 4.73775,-3.04638 10.02405,-4.44554 15.20898,-4.33789 z m 282.36328,0.11719 c 33.35476,59.56146 28.32882,137.38525 -15.64258,207.40625 -8.84974,14.09253 -19.02494,27.41825 -30.29101,39.83984 l -0.13282,-0.0801 -0.4082,0.67383 c -47.4097,51.98909 -114.03009,87.96202 -183.22656,97.20703 -81.95445,10.94955 -154.84581,-16.77406 -195.19531,-71.83789 l 188.2539,-121.04882 58.64844,-37.70899 -0.002,-0.002 z m -253.42383,65.24414 44.09375,45.57617 -13.93554,8.96094 -13.9336,8.95898 -23.17187,-59.02734 z m 171.64453,240.84766 -21.13867,34.87695 h -2.67187 v -19.16406 c 8.15668,-4.89513 16.10438,-10.13749 23.81054,-15.71289 z m -43.81054,30.68945 v 24.1875 h 10.55078 l -4.33203,7.14844 a 25,25 0 0 0 -8.83789,-1.64453 25,25 0 0 0 -14.3418,4.54882 l -4.12891,-1.17968 v -8.87305 h 16.43555 v -21.08594 z m -41.08985,13.64062 v 13.70508 l -23.20507,-6.6289 c 7.81628,-2.058 15.55759,-4.42007 23.20507,-7.07618 z m 12.07032,51.63672 h 3.78125 a 25,25 0 0 0 22.61914,14.41407 25,25 0 0 0 22.61523,-14.41407 h 4.3711 l 39.31054,78.6211 H 481.41211 Z m -135.89063,98.6211 H 449.05273 645.7793 710 V 850 h 65.74609 v 45.74609 H 319.08398 V 850 h 65.74805 z"
+         transform="matrix(1.0234757,0.65809672,-0.65809672,1.0234757,313.58573,-326.90386)"
+         id="parabolic-antenna-1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="signal"
+       transform="rotate(-8.9517898,453.19793,1231.5898)">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 394.07617,133.61133 c -3.98718,0.0263 -7.96984,0.1724 -11.94336,0.43555 -40.87043,2.70661 -80.7299,17.90328 -113.63281,44.79101 -58.49406,47.80042 -85.16071,124.50096 -68.9375,198.2793 a 12.50125,12.50125 0 1 0 24.41602,-5.36914 c -14.21042,-64.62471 9.10505,-131.68093 60.34179,-173.55078 51.23674,-41.86985 121.59275,-51.36282 182.0918,-24.56446 a 12.50125,12.50125 0 1 0 10.125,-22.85742 c -26.44023,-11.71182 -54.55067,-17.34826 -82.46094,-17.16406 z m 9.9043,48.70508 c -4.53904,0.0164 -9.06932,0.22701 -13.57617,0.63086 -30.04567,2.6923 -59.09864,13.93795 -83.45703,32.97461 -38.97344,30.45866 -61.50031,77.40154 -60.87696,126.86132 a 13.555952,13.555952 0 1 0 27.10742,-0.34179 c -0.51696,-41.01982 18.14,-79.89907 50.46289,-105.16016 32.3229,-25.26111 74.55697,-33.97012 114.23633,-23.55664 a 13.555952,13.555952 0 1 0 6.88282,-26.2207 c -13.456,-3.53141 -27.16219,-5.23678 -40.7793,-5.1875 z m -0.82227,51.9707 c -3.41041,0.0359 -6.79255,0.23231 -10.13672,0.58398 -46.81826,4.92341 -86.29874,40.15423 -95.17578,87.94922 a 12.50125,12.50125 0 1 0 24.57813,4.56446 c 7.83832,-42.20245 46.16413,-71.42272 88.93555,-67.80469 a 12.50125,12.50125 0 1 0 2.10937,-24.91211 c -3.45996,-0.29268 -6.90013,-0.41681 -10.31055,-0.38086 z"
+         transform="rotate(8.9517898,246.13783,1215.3815)"
+         id="signals"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
