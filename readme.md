@@ -14,9 +14,7 @@ software or web pages.
 
 You can view some of the first icons:
 
-<img src="/svg-files/ghz.svg" width="100"/>
-<img src="/svg-files/faraday.svg" width="100"/>
-<img src="/svg-files/5g.svg" width="100"/>
+<img src="/svg-files/ghz.svg" width="100"/><img src="/svg-files/faraday.svg" width="100"/><img src="/svg-files/5g.svg" width="100"/>
 <img src="/svg-files/camioneta-antena.svg" width="100"/>
 <img src="/svg-files/camion-peque-antena.svg" width="100"/>
 <img src="/svg-files/comunication-airport-v1.svg" width="100"/>
